@@ -9,7 +9,7 @@
     "build": "yarn parcel build src/index.html"
   },
   "dependencies": {
-    "immer": "^4.0.0",
+    "immer": "^8.0.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "use-immer": "^0.3.4"
